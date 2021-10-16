@@ -1,1 +1,1 @@
-This is my recipes website for The Odin Project. I will have learned various skills related to HTML by completing this project.
+This is my recipes website for The Odin Project. I will have learned various skills related to HTML by completing this project. I will work with images, links, and creating an appropriate file structure.
